@@ -1,0 +1,16 @@
+{
+  "author": "kishore karthick", 
+  "name": "censortify-new", 
+  "version": "0.1.1", 
+  "description": "Censors words out of text", 
+  "main": "Censortext", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kishorekarthick89/vulgar-detection/tree/main/censortify"
+  },
+  "keywords": ["censor", "words"],
+  "dependencies": {}, 
+  "engines": {
+    "node": "*"
+  }
+}
